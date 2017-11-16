@@ -1,5 +1,5 @@
 ################# ~~~~~~~~~~~~~~~~~ ######## ~~~~~~~~~~~~~~~~~ #################
-##                                                                            ##
+##                                                                            ###
 ##                        Data Science Capstone Project                       ##
 ##                                                                            ##            
 ##                 Maximilian H. Nierhoff (http://nierhoff.info)              ##
