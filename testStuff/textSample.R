@@ -22,3 +22,4 @@ textSample <- c(sampleTwitter,sampleNews,sampleBlogs)
 
 ## Save sample
 writeLines(textSample, "./bigTextSample.txt")
+
