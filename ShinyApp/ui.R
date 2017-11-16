@@ -2,9 +2,9 @@
 ##                                                                            ##
 ##                        Data Science Capstone Project                       ##
 ##                                                                            ##            
-##                 Maximilian H. Nierhoff (http://nierhoff.info)              ##
+##                 Areddy Anuradha CHowdary              ##
 ##                                                                            ##
-##           Github Repo: https://github.com/mhnierhoff/CapstoneCoursera      ##
+##           Github Repo: https://github.com/areddyus/CapstoneCoursera      ##
 ##                                                                            ##
 ################# ~~~~~~~~~~~~~~~~~ ######## ~~~~~~~~~~~~~~~~~ #################
 
@@ -75,9 +75,9 @@ tags$br(),
 tags$span(style="color:grey", 
           tags$footer(("© 2015 - "), 
                       tags$a(
-                              href="http://nierhoff.info",
+                              href="http://areddyus.info",
                               target="_blank",
-                              "Maximilian H. Nierhoff."), 
+                              "areddyus"), 
                       tags$br(),
                       ("Built with"), tags$a(
                               href="http://www.r-project.org/",
