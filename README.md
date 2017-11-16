@@ -5,15 +5,13 @@ All R scripts, files, presentations etc. in this repository are materials for th
 
 
 * The next word prediction app is hosted on shinyapps.io: 
-[https://nierhoff.shinyapps.io/cdsc](https://nierhoff.shinyapps.io/cdsc)
+[https://areddyus.shinyapps.io/ShinyApp](https://areddyus.shinyapps.io/ShinyApp)
 
-* In the case of any inaccessibility the same app is also hosted on my private shiny server: 
-[http://apps.nierhoff.info/cdsc](http://apps.nierhoff.info/cdsc)
 
 * The whole code of this application, as well as all the milestone report, related scripts, this presentation  etc. can be found in this Github repo: 
-[https://github.com/mhnierhoff/CapstoneCoursera](https://github.com/mhnierhoff/CapstoneCoursera)
+[https://github.com/areddyus/CapstoneCoursera](https://github.com/areddyus/CapstoneCoursera)
 
 * This pitch deck with a short presentation for the capstone application is located here: 
-[http://rpubs.com/nierhoff/cdsc](http://rpubs.com/nierhoff/cdsc)
+[http://rpubs.com/areddy/331143] (http://rpubs.com/areddy/331143) 
 
 * Learn more about the Coursera Data Science Specialization: [https://www.coursera.org/specialization/jhudatascience/1](https://www.coursera.org/specialization/jhudatascience/1)
